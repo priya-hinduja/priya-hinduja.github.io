@@ -1,4 +1,2 @@
-# priya-hinduja.github.io
-layout: page
-title: "Priya's Portfolio"
-permalink: /portfolio
+Priya's Portfolio
+ Welcome!
