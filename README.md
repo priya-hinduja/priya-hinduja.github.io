@@ -1,2 +1,4 @@
 # priya-hinduja.github.io
-remote_theme: minima
+layout: page
+title: "Priya's Portfolio"
+permalink: /portfolio
